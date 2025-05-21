@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Warwick 👋</h1>
   <p>
-    <em>Solution Architect | Software Developer | Tech Enthusiast | </em>
+    <em>Solution Architect | Software Developer | Tech Enthusiast</em>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=warwickschroeder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />

@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/7676501?v=4" alt="Warwick - Banner/Logo" width="200" style="border-radius: 50% !important;" />
   <h1>Hi there, I'm Warwick 👋</h1>
   <p>
     <em>Solution Architect | Software Developer | Tech Enthusiast | </em>

@@ -90,9 +90,3 @@
 </p>
 
 -->
-
----
-
-<p align="center">
-  <em>Thanks for visiting my profile! Have a great day! 😊</em>
-</p>

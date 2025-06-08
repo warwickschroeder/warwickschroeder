@@ -17,9 +17,9 @@
 
 ## 🙋‍♂️ About Me
 
-* 📍 I'm a Solution Architect / Software Developer based in 🦘 Perth, Australia.
-* 🚀 I'm passionate about Tech, Software Development, Solution Architecture, Home Labs, 3D Printing, Drones, Renewable Energy / Sustainable Living, Family.
-* 💬 Ask me about my interests above.
+* 📍 I'm a Solution Architect / Software Engineer based in 🦘 Perth, Australia.
+* 🚀 I have too many hobbies, most have something to do with tech; 3D printing, homelabs/home networking, IoT, aerial photography (drones), tabletop gaming, PC/handheld/retro gaming, fitness... I could go on.
+* 🛠️ Professionally, I've worked as a Software Developer and most recently a Solution Architect. Working with me you will probably pick up that I tend to always try paint a big picture of any problem or solution before making any decisions.
 * 📫 How to reach me: Refer to my public GitHub profile.
 <!--
 * 🔭 I’m currently working on [Your Current Project(s) - e.g., a cool new side-project, my latest feature at work, a specific open-source contribution].
